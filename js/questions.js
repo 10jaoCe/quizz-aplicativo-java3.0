@@ -2,35 +2,36 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Qual foi a seleção que ganhou a copa de 2018?",
+    answer: "França",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Croacia",
+      "Alemanha",
+      "Argentina",
+      "França"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Quem ganhou a champions de 2012?",
+    answer: "Chelsea",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Real Madrid",
+      "Manchester Unity",
+      "Chelsea",
+      "Barcelona"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Quem foi o ganhador da bola de ouro do ano de 2014?",
+    answer: "Cristiano Ronaldo",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Manuel Neuer",
+      "Lionel Messi",
+      "Ribery",
+      "Cristiano Ronaldo",
+      "Keanu Reaves"
     ]
   },
   {
