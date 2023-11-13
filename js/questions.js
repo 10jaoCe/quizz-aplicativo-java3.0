@@ -30,30 +30,29 @@ let questions = [
       "Manuel Neuer",
       "Lionel Messi",
       "Ribery",
-      "Cristiano Ronaldo",
-      "Keanu Reaves"
+      "Cristiano Ronaldo"
     ]
-  },
+  }
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Quem ganhou a Libertadores de 2007?",
+    answer: "Boca Juniors",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Boca Juniors",
+      "Bota fogo",
+      "Corinthians",
+      "Flamengo"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Quem ganhou a Copa do Brasil de 2010?",
+    answer: "Santos",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Palmeiras",
+      "Santos",
+      "São Paulo",
+      "Vasco da Gama"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
