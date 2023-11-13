@@ -3,7 +3,7 @@ let questions = [
   {
     numb: 1,
     question: "Qual foi a seleção campẽa de 2018?",
-    answer: "Marie Curiee",
+    answer: "França"
     options: [
       "Alemanha",
       "Argentina",
@@ -16,21 +16,21 @@ let questions = [
     question: "Qual o apelido do jogador Edson Arantes?",
     answer: "Pelé",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Pelé",
+      "Garrincha",
+      "Zico",
+      "Messi"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Quem ganhou a bola de ouro em 2014?",
+    answer: "Christiano Ronaldo"
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Lionel Messi",
+      "Manuel Neuer",
+      "Christiano Ronaldo"
+      "Neymar"
     ]
   },
   {
