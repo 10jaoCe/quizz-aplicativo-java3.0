@@ -8,7 +8,7 @@ let questions = [
       "Alemanha",
       "Argentina",
       "Croacia",
-      "França"
+      "França",
     ]
   },
   {
@@ -19,7 +19,7 @@ let questions = [
       "Pelé",
       "Garrincha",
       "Zico",
-      "Messi"
+      "Messi",
     ]
   },
   {
@@ -29,8 +29,8 @@ let questions = [
     options: [
       "Lionel Messi",
       "Manuel Neuer",
-      "Christiano Ronaldo"
-      "Neymar"
+      "Christiano Ronaldo",
+      "Neymar",
     ]
   },
   {
