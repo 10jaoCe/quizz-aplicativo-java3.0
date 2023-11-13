@@ -2,35 +2,35 @@
 let questions = [
   {
     numb: 1,
-    question: "Qual foi a seleção campẽa de 2018?",
-    answer: "França"
+    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
+    answer: "Marie Curiee",
     options: [
-      "Alemanha",
-      "Argentina",
-      "Croacia",
-      "França",
+      "Albert Einstein",
+      "Marie Curiee",
+      "Stephen Hawking",
+      "Linus Pauling"
     ]
   },
   {
     numb: 2,
-    question: "Qual o apelido do jogador Edson Arantes?",
-    answer: "Pelé",
+    question: "Qual o país mais novo do mundo?",
+    answer: "Sudão do Sul",
     options: [
-      "Pelé",
-      "Garrincha",
-      "Zico",
-      "Messi",
+      "Timor Lestet",
+      "Montenegro",
+      "Sudão do Sul",
+      "Kosovo"
     ]
   },
   {
     numb: 3,
-    question: "Quem ganhou a bola de ouro em 2014?",
-    answer: "Christiano Ronaldo"
+    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
+    answer: "Solstício de verão",
     options: [
-      "Lionel Messi",
-      "Manuel Neuer",
-      "Christiano Ronaldo",
-      "Neymar",
+      "Equinócio de outono",
+      "Solstício de inverno",
+      "Solstício de verão",
+      "Solstício de outono"
     ]
   },
   {
@@ -70,3 +70,6 @@ let questions = [
   //   ]
   // },
 ];
+
+
+
