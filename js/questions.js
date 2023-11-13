@@ -2,19 +2,19 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
+    question: "Qual foi a seleção campẽa de 2018?",
     answer: "Marie Curiee",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Alemanha",
+      "Argentina",
+      "Croacia",
+      "França"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual o apelido do jogador Edson Arantes?",
+    answer: "Pelé",
     options: [
       "Timor Lestet",
       "Montenegro",
