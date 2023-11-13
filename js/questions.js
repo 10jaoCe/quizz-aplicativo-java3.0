@@ -32,7 +32,7 @@ let questions = [
       "Ribery",
       "Cristiano Ronaldo"
     ]
-  }
+  },
   {
     numb: 4,
     question: "Quem ganhou a Libertadores de 2007?",
